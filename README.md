@@ -1,6 +1,6 @@
 # Projeto de BlackJack
 
-A ideia veio de um projeto de faculdade nada relacionado com as regras do jogo real, então decidi desenvolver mais e deixar mais completo.
+A ideia é de um projeto de faculdade nada relacionado com as regras do jogo real, então decidi desenvolve-lo e deixar mais completo.
 
 A tecnologia (linguagem) utilizada foi o Java.
 
